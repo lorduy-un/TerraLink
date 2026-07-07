@@ -1,4 +1,4 @@
-#TerraLink - Nodo IoT para monitoreo agricola
+# TerraLink - Nodo IoT para monitoreo agricola
 
 ## Autores
 * Linda Orduy
