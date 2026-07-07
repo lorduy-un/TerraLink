@@ -46,17 +46,20 @@ laboratorio por un monitoreo continuo en campo, lo que permite realizar ajustes 
 en fertilización y riego.
 
 ## Montaje fisico
+AUN FALTA VERIFICAR CONEXIONES 
 | Componente | Conexión |
 |------------|----------|
 | Tarjeta STM32 | |
-| Sensor temperatura DHT22 |  |
-| Sensor de suelo RS485 |  |
-| Modulo RS485 a UART TtL Xy-017 |  |
-| LoRa |  |
+| Sensor temperatura DHT22 | Data → GPIO xx (pin xx)<br>VCC → 5V (o 3.3V según modelo)<br>GND → GND |
+| Sensor de suelo RS485 | Cable cafe → 5V <br>Cable negro → GND <br>Cable amarillo → A+ modulo RS485<br>Cable azul → B- modulo RS485 |
+| Modulo RS485 a UART TtL Xy-017 |VCC → 5V (o 3.3V según modelo)<br> TXD →  <br>RXD →  <br> GND →  GND <br> A+ → Cable amarillo snesor <br> B- → Cable azul sensor <br> chino →  <br>|
+| LoRa |VCC → 3.3 v <br> MISO →  <br> MOSI →  <br> SLCK →  <br> NSS →  <br> DIO0 →  <br> REST →  <br> GND → GND <br>|
 | Panel solar |  |
 
 ### Conexion sensor de temperatura DHT22
-
+'
+![imager](images/rpimager.jgp)
+'
 ### Calibracion y conexion sensor de suelo
 
 ### Conexion LoRa
@@ -64,9 +67,13 @@ en fertilización y riego.
 ### Conexion panel solar
 
 ## Diseño PCB
+## Esquematico
+
 
 ## Integracion con IA
 
 ## Pagina web - app
 
 ## Diseño 3D
+
+## Conclusiones, recomendaciones, consideraciones...
