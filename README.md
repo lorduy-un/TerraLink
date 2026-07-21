@@ -72,7 +72,6 @@ AUN FALTA VERIFICAR CONEXIONES
 
 ## Integracion con IA
 
-## Pagina web - app
 
 ## Diseño 3D
 Se diseñó una caja para alojar y proteger los componentes electrónicos del sistema TerraLink. El diseño está compuesto por una base y una tapa independientes, preparadas para fabricación mediante impresión 3D.
