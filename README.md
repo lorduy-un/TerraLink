@@ -75,6 +75,16 @@ AUN FALTA VERIFICAR CONEXIONES
 ## Pagina web - app
 
 ## Diseño 3D
+Se diseñó una caja para alojar y proteger los componentes electrónicos del sistema TerraLink. El diseño está compuesto por una base y una tapa independientes, preparadas para fabricación mediante impresión 3D.
 
+La caja permite organizar los componentes electrónicos del sistema y facilita el acceso para montaje, mantenimiento y conexión de los sensores.
+### Archivos para impresión 3D
+
+- [Ver o descargar la base de la caja](zanahoria%20base.stl)
+- [Ver o descargar la tapa de la caja](zanahoria%20tapa.stl)
+
+### Simulación del diseño
+
+- [Ver video de la simulación 3D](recording-2026-07-16-15-14-13.mp4)
 
 ## Conclusiones, recomendaciones, consideraciones...
